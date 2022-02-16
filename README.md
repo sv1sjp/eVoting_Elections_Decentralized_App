@@ -21,7 +21,6 @@ For more information about how you can deploy and how our eVoting Decentralized 
 
 ## Greek Presentations and Blockchain Videos:
 
-[Greek Presentation of "Developing a Blockchain eVoting Application using Ethereum" can be found there:](https://www.youtube.com/watch?v=QBBQJU2NqiM&list=PLZa7COjIxKWyePlYF29HdKR0raeWMqG8v&index=2)
-
+- [Developing a Blockchain eVoting Application using Ethereum](https://www.youtube.com/watch?v=QBBQJU2NqiM&list=PLZa7COjIxKWyePlYF29HdKR0raeWMqG8v&index=2)
 - [ Privacy in Blockchain and Web3.0 ](https://www.youtube.com/watch?v=QBBQJU2NqiM&list=PLZa7COjIxKWyePlYF29HdKR0raeWMqG8v&index=4)
 - [  Smart Contract Security ](https://www.youtube.com/watch?v=lS-HPGJks1Y&list=PLZa7COjIxKWyePlYF29HdKR0raeWMqG8v&index=7)
