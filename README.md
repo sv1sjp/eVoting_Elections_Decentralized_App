@@ -15,8 +15,8 @@ For more information about how you can deploy and how our eVoting Decentralized 
 
 - [Developing a Blockchain eVoting Application using Ethereum(Greek Slides), Dimitris Vagiakakaos, Konstantinos Karahalis, Stavros Gkinos](https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/eVoting_Decentralized_Application_PresentationGR.pdf)
 
- ## Privacy in Blockchain and Web3.0
-- [ Privacy in Blockchain and Web3.0: Dimitris Vagiakakakos, Konstantinos Karahalis, Stavros Gkinos](https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/Privacy%20in%20Blockchain%20and%20Web3.0%20(Greek).pdf)
+ ## Privacy in Blockchain and Web3.0 - Second Edition
+- [ Privacy in Blockchain and Web3.0 - Second Edition : Dimitris Vagiakakakos, Stavros Gkinos, Konstantinos Karahalis](https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/privacy_in_blockchain_and_web3.0_second_edition.pdf)
 
 
 ## Greek Presentations and Blockchain Videos:
